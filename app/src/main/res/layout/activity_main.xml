@@ -76,5 +76,25 @@
             android:layout_marginTop="10dp"
             android:backgroundTint="#F35252"
             android:text="Login" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:paddingRight="10dp"
+            android:text="New to openStory? Sign up"
+            android:textColor="@color/white">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="35dp"
+            android:gravity="center"
+            android:paddingRight="10dp"
+            android:text="2022 Openstory"
+            android:textColor="@color/white">
     </LinearLayout>
 </LinearLayout>
